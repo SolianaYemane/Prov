@@ -6,4 +6,8 @@ public class DemoS {
 		System.out.println("Prov two Done");    
 
 	} 
+	//Good Job Soliana 
+	public static void add(int a, int b){
+		System.out.println(a+b);
+	} 
 }
